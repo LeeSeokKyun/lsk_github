@@ -1,0 +1,6 @@
+modify by search_feature
+On branch search_feature
+Untracked files:
+	test_search.txt
+
+nothing added to commit but untracked files present
